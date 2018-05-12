@@ -1,0 +1,32 @@
+_repo: Then-Marched-the-Brave_16156
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hicks, Anna S.
+    gutenberg_agent_id: '6518'
+    url: http://www.gutenberg.org/2009/agents/6518
+covers:
+- cover_type: archival
+  image_path: 16156-h/images/cover.png
+creator:
+  author:
+    agent_name: Comstock, Harriet T. (Harriet Theresa)
+    alias: Comstock, Harriet Theresa Smith
+    birthdate: 1860
+    gutenberg_agent_id: '5719'
+    url: http://www.gutenberg.org/2009/agents/5719
+description: ''
+gutenberg_issued: '2005-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hale, Nathan, 1755-1776 -- Juvenile literature'
+- !lcsh 'Long Island, Battle of, New York, N.Y., 1776 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Then Marched the Brave
+url: http://www.gutenberg.org/ebooks/16156
